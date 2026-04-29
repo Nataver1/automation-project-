@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-08-13T13:49:34.301Z",
+    "end": "2024-08-13T13:49:34.907Z",
+    "duration": 606
+  },
+  "tests": [
+    {
+      "title": "Should get a random existing starship by id",
+      "fullTitle": "Starship CRUD operations Should get a random existing starship by id",
+      "file": "/Users/mdudka/Downloads/tc-automation-framework/api/test/Starships_tests/starship-crud.test.js",
+      "duration": 333,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "Should not return a starship with non existing id",
+      "fullTitle": "Starship CRUD operations Should not return a starship with non existing id",
+      "file": "/Users/mdudka/Downloads/tc-automation-framework/api/test/Starships_tests/starship-crud.test.js",
+      "duration": 188,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Should get a random existing starship by id",
+      "fullTitle": "Starship CRUD operations Should get a random existing starship by id",
+      "file": "/Users/mdudka/Downloads/tc-automation-framework/api/test/Starships_tests/starship-crud.test.js",
+      "duration": 333,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    },
+    {
+      "title": "Should not return a starship with non existing id",
+      "fullTitle": "Starship CRUD operations Should not return a starship with non existing id",
+      "file": "/Users/mdudka/Downloads/tc-automation-framework/api/test/Starships_tests/starship-crud.test.js",
+      "duration": 188,
+      "currentRetry": 0,
+      "speed": "slow",
+      "err": {}
+    }
+  ]
+}
